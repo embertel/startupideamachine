@@ -1,0 +1,42 @@
+body {
+    background-color: #FAE6C5;
+    color: #571101;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #A11D00;
+    font-size: 3em;
+}
+
+h2 {
+    font-weight: 300;
+    font-style: italic;
+}
+
+p {
+    font-size: 2em;
+}
+
+a:link, a:visited {
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #A11D00;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+a:active, a:hover {
+    color: #E37C0E;
+}
+
+#header {
+    margin-top: 0;
+}
+
+
+footer {
+    margin-top: 44px;
+    font-size: 0.5em;
+}
