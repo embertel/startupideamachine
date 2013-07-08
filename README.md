@@ -1,3 +1,4 @@
+[![Stories in Ready](http://badge.waffle.io/embertel/startupideamachine.png)](http://waffle.io/embertel/startupideamachine)  
 The tech startup idea machine
 ==================
 
