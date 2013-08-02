@@ -20,11 +20,12 @@ p {
     font-size: 2em;
 }
 
-a:link, a:visited {
+a, a:link, a:visited {
     font-family: 'Pathway Gothic One', sans-serif;
     color: #A11D00;
     text-decoration: none;
     font-size: 2em;
+    cursor: pointer;
 }
 
 a:active, a:hover {
