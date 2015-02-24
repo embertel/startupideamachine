@@ -45,7 +45,8 @@ var serviceArray = new Array(
     "a Wolfram|Alpha",
     "a Mapquest",
     "a Google",
-    "a Neopets"
+    "a Neopets",
+    "a Strava"
 );
 
 var audienceArray = new Array(
@@ -81,7 +82,8 @@ var audienceArray = new Array(
     "pho",
     "rodents",
     "glowsticks",
-    "food trucks"
+    "food trucks",
+    "birdwatching"
 );
 
 var pitchArrayLength = pitchArray.length;
